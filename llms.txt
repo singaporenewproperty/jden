@@ -1,0 +1,9 @@
+# JDEN
+
+> JDEN — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/jden/
+
+## Pages
+
+- [JDEN](https://singaporenewproperty.github.io/jden/): JDEN property information.
